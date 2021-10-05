@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Joker",
+        "email": "joker@fun.com",
+        "gender": "Male"
+    },
+    {
+        "name": "Catwomen",
+        "email": "cat@women.com",
+        "gender": "Female"
+    },
+    {
+        "name": "Pingu",
+        "email": "pingu@ice.it",
+        "gender": "Female"
+    }
+]
